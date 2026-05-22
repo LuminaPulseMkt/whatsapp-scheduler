@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.WhatsAppScheduler" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.WhatsAppScheduler" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">#075E54</item>
         <item name="colorPrimaryVariant">#054D44</item>
         <item name="colorOnPrimary">#FFFFFF</item>
