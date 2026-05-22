@@ -50,7 +50,7 @@ class SettingsActivity : AppCompatActivity() {
         // Typing delay (0-5 seconds)
         seekTyping.max = 50
         seekTyping.progress = (settings.typingDelayMs / 100).toInt()
-        updateTypingLabel(seekTyping.progress * 100)
+        updateTypingLabel(seekTyping.progress * 100L)
 
         seekTyping.setOnSeekBarChangeListener(object : SeekBar.OnSeekBarChangeListener {
             override fun onProgressChanged(sb: SeekBar, p: Int, fromUser: Boolean) {
