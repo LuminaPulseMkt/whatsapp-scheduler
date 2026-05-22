@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WA Scheduler</string>
+    <string name="accessibility_service_label">Agendador WhatsApp</string>
+    <string name="accessibility_service_description">Permite que o app envie mensagens automaticamente no WhatsApp nos horários configurados, simulando o uso humano do aplicativo.</string>
+</resources>

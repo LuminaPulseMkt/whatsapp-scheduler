@@ -1,0 +1,2 @@
+-keep class com.scheduler.whatsapp.model.** { *; }
+-keep class com.scheduler.whatsapp.service.** { *; }
